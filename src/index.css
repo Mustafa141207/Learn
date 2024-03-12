@@ -1,0 +1,57 @@
+*{
+padding: 0px;
+margin: 0px;
+transition: all 0.5s;
+outline: 0;
+}
+.icon{
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: 
+  #777777;
+}
+
+.mainColor{
+  color: #F7941E ;
+}
+#Login{
+  color: white;
+  background-color: #F7941E;
+}
+#Signup{
+  border: 2px solid  #F7941E;
+  color:  #F7941E;
+}
+#Signup:hover{
+  color: white;
+  background-color: #F7941E;
+}
+input{
+  outline: none;
+  border: none;
+}
+input:focus{
+  outline: none;
+ 
+
+}
+.flag{
+  border: 1px solid black;
+  border-color: transparent black transparent transparent;
+}
+.input{
+  margin: 10px 0px;
+  padding: 10px;
+  position: relative;
+}
+.handle{
+  width: 20px;
+  margin-right: 5px;
+}
+#phone{
+  width: 62%;
+}
+
